@@ -9,3 +9,6 @@ RA: 23025404
 
 Ryan 
 RA: 23025404
+
+
+Nesse projeto fizemos uma calculadora de IMC, que permite o usuário escolher seu gênero para ter mais acertividade no seu índice de massa corporal 
